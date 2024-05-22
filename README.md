@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitu kumari
-- 👀 I’m interested in coding
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning react
-- 📫 How to reach me ...
+- 📫 How to reach me : Email (nitu60608@gmail.com)
 - 😄 Pronouns: she/her
 
 <!---
